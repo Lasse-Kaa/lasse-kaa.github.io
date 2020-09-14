@@ -1,15 +1,15 @@
 html {
     font-size: 10px;
     font-family: "Open Sans", sans-serif;
-    background-color: #3f3f3f;
+    background-color: white;
 }
 h1 {
     font-size: 60px;
     text-align: center;
     margin: 0;
     padding: 20px 0;
-    color: #3f3f3f;
-    text-shadow: 3px 3px 10px #3f3f3f;
+    color: black;
+    text-shadow: 3px 3px 10px black;
 
 }
 
@@ -22,9 +22,9 @@ p, li {
 body {
     width: 600px;
     margin: 0 auto;
-    background-color: #FF9500;
+    background-color: white;
     padding: 0 20px 20px 20px;
-    border: 5px solid black;
+    border: 5px solid #590000;
 }
 
 img {
